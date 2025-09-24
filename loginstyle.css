@@ -10,7 +10,7 @@ body {
     padding-left: 60%;
     align-items: center;
     min-height: 100vh;
-    background: url('img2.png') no-repeat;
+    background: url('img.png') no-repeat;
     background-size: cover;
     background-position: 0 -10px;
 }
